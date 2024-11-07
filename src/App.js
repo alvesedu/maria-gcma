@@ -1,4 +1,7 @@
 import React, { Suspense, useEffect } from 'react'
+import 'primereact/resources/themes/saga-blue/theme.css';
+import 'primeicons/primeicons.css';
+import 'primeflex/primeflex.css';
 import { HashRouter, Route, Routes } from 'react-router-dom'
 import { useSelector } from 'react-redux'
 
